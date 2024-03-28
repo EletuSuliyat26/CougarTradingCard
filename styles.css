@@ -1,0 +1,26 @@
+/* Global Styles */
+body{
+}
+
+/* .feats{
+  text-align: center;
+  color: black;
+  font-size: medium;
+} */
+.card{
+  padding: 2rem 5rem;
+  background-color: aquamarine;
+  width: 30%;
+  margin: 25px auto;
+  border: 1px solid;
+  border-radius: 10px;
+}
+img{
+  width: 100%;
+}
+ /* h1{
+  text-align: center;
+ }
+ .img{
+  width: 80px;
+ } */
